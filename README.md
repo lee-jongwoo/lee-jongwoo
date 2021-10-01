@@ -1,6 +1,26 @@
 # Nice to meet you!
-I'm a student, also a developer. Any requests or contacts are welcome!
+Hello'); DROP TABLE Files;--
 
-## Email Me
-You may email me at jongwoo.developer@gmail.com.
-If you have anything to say, please leave me an email.
+## Who Am I
+I'm a 👨‍🎓student in 🇰🇷South Korea.
+
+## What I Like:
+- Web Technologies
+- Firebase
+- PWA (Progressive Web Apps)
+
+## What I Don't Like:
+- Homework
+- Annoying CORS errors
+
+## Did You Know...
+- I use [Visual Studio Code](https://code.visualstudio.com/) for code editing.
+- I use macOS for development, and have Windows & Ubuntu for testing.
+- I normally use Tabs for indents.
+- I have a Chrome Web Store Developer Account.
+
+## Contacts
+- jongwoo.developer@gmail.com
+- [https://jongwoo-lee.web.app](https://jongwoo-lee.web.app)
+- [Stack Overflow](https://stackoverflow.com/users/14284475/jongwoo-lee)
+- [Google Developer](https://developers.google.com/profile/u/116910393575988638644)

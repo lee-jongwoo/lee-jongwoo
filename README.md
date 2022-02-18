@@ -23,4 +23,4 @@ I'm a 👨‍🎓student in 🇰🇷South Korea.
 - jongwoo.developer@gmail.com
 - [https://jongwoo-lee.web.app](https://jongwoo-lee.web.app)
 - [Stack Overflow](https://stackoverflow.com/users/14284475/jongwoo-lee)
-- [Google Developer](https://developers.google.com/profile/u/116910393575988638644)
+- [Google Developer](https://g.dev/jongwoo)

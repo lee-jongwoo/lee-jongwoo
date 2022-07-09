@@ -1,28 +1,9 @@
-## Who Am I
-I'm a middle school student in South Korea.
-I can develop iOS and web apps.
-
-## Programming Languages I Like:
-- Swift (I love SwiftUI)
-- JavaScript (nodeJS too)
-- Python
-- PHP
-
-## Languages I Don't Like That Much:
-- Java
-- C#
-- Ruby
-
-## Languages I _hate_:
-- C
-- C++
-
-## Did You Know...
-- I use [Visual Studio Code](https://code.visualstudio.com/) for basic code editing and XCode for app development.
-- I use an M1 MacBook Air for development.
-- I normally use Tabs for indents.
-- I am a member of the Apple Developer Program.
-- I have a Chrome Web Store Developer Account.
+## Rules
+1. Use English.
+2. Use Xcode on macOS.
+3. Use SwiftUI whenever possible.
+4. Use Helper Classes to reduce boilerplate code.
+5. Use [SwiftLint](https://github.com/realm/SwiftLint) to clean up your code.
 
 ## Contacts
 - jongwoo@studia.blue

@@ -6,6 +6,6 @@
 5. Use [SwiftLint](https://github.com/realm/SwiftLint) to clean up your code.
 
 ## Contacts
-- jongwoo@studia.blue
+- jongwoo@jongwoo.dev
 - [Stack Overflow](https://stackoverflow.com/users/14284475/jongwoo-lee)
 - [Google Developer](https://g.dev/jongwoo)

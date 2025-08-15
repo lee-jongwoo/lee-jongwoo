@@ -1,11 +1,8 @@
 ## Rules
 1. Use English.
-2. Use Xcode on macOS.
-3. Use SwiftUI whenever possible.
-4. Use Helper Classes to reduce boilerplate code.
-5. Use [SwiftLint](https://github.com/realm/SwiftLint) to clean up your code.
+2. Use Helper Classes.
+3. Use [SwiftLint](https://github.com/realm/SwiftLint).
+4. Please don't talk Windows.
 
 ## Contacts
 - jongwoo@jongwoo.dev
-- [Stack Overflow](https://stackoverflow.com/users/14284475/jongwoo-lee)
-- [Google Developer](https://g.dev/jongwoo)
